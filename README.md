@@ -11,7 +11,5 @@ which states that, in many real-life sources of data, the distribution of the fi
     <img src="https://raw.github.com/clementi/BenfordsLaw/master/plot/gdp.png">
 </object>
 
-This project was created also to help me learn the [R programming language][r].
-
 [benford]: http://en.wikipedia.org/wiki/Benford%27s_law
 [r]: http://www.r-project.org/
