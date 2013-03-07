@@ -7,7 +7,7 @@ get_first_digit <- function(k) {
 # Plot the distribution of first digits
 truehist(
   sapply(gdp_2001_numbers_only$V1, get_first_digit),
-  main="Distribution of the First Digit of 229 GDPs",
+  main="Distribution of the First Digit of the World's GDPs",
   ylab="Frequency",
   xlab="First digit")
 
